@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(179, 219, 253);
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+#introtext{
+    color: rgb(255, 0, 179);
+}
+
+.highlight{
+    color: blueviolet;
+    font-weight: bold;
+}
+#hobbies{
+    color: rgb(31, 0, 145);
+}
+#name{
+    color: rgb(161, 78, 0);
+}
+
+#introContainer{
+    width: 470px;
+    float: left;
+}
+
+#introPicture{
+    float: left;
+}
