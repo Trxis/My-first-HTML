@@ -1,5 +1,4 @@
 body{
-    background-color: rgb(179, 219, 253);
     margin: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
@@ -21,9 +20,30 @@ body{
 
 #introContainer{
     width: 470px;
+    float: leftx;
+    margin: auto;
+}
+#introPicture{
     float: left;
 }
 
-#introPicture{
+.reset{
+    clear: both;
+}
+
+#hobbyContainer{
+    width: 410px;
+    float: left; 
+}
+
+#socials{
     float: left;
+}
+
+#hobbyPicture{
+    float:  right;
+}
+
+#meme{
+   float: bottom;
 }
