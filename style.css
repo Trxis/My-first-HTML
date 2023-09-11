@@ -12,7 +12,7 @@ body{
     font-weight: bold;
 }
 #hobbies{
-    color: rgb(31, 0, 145);
+    color: rgb(255, 255, 255);
 }
 #name{
     color: rgb(161, 78, 0);
@@ -20,7 +20,6 @@ body{
 
 #introContainer{
     width: 470px;
-    float: leftx;
     margin: auto;
 }
 #introPicture{
@@ -38,6 +37,7 @@ body{
 
 #socials{
     float: left;
+   
 }
 
 #hobbyPicture{
