@@ -20,10 +20,12 @@ body{
 
 #introContainer{
     width: 470px;
-    margin: auto;
+    float: right;
+    margin: 0px 800px 0px 0px;
 }
 #introPicture{
-    float: left;
+    float: top left;
+    margin: 0px 0px 0px 0px;
 }
 
 .reset{
@@ -32,18 +34,22 @@ body{
 
 #hobbyContainer{
     width: 410px;
-    float: left; 
+    float: left;
+    margin: 50px 0px 0px 350px;
 }
 
 #socials{
     float: left;
+    margin: 1px 0px 0px 0px;
    
 }
 
 #hobbyPicture{
-    float:  right;
+    float:  middle;
+    margin: 0px 0px 0px 0px;
 }
 
 #meme{
-   float: bottom;
+   float: right;
+   margin: -331px 0px 0px 0px;
 }
